@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 w
 
 kjhgdfhkgdkjf
@@ -16,3 +17,6 @@ hfhgfhfg
 
 test test 
 ertyui
+=======
+wertyudfghjfghjmmmmmmmmmmmmmmmi
+>>>>>>> xyz
