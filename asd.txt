@@ -1,1 +1,22 @@
-wertyui
+<<<<<<< HEAD
+w
+
+kjhgdfhkgdkjf
+
+
+nhkjgdfghfkhgf
+nkjdgfkgh
+hhkjhkghghhkf
+gggggggggggggggggggggggggggggggggggggggggggggg
+
+
+
+khkhf
+
+hfhgfhfg
+
+test test 
+ertyui
+=======
+wertyudfghjfghjmmmmmmmmmmmmmmmi
+>>>>>>> xyz
